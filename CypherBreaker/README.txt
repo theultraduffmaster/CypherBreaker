@@ -1,0 +1,4 @@
+This is my project for object orientated programming. In this program when the railfence is run it will decrypt two lines from the message.txt file starting the story. Then two more lines will be decrypted from the program itself to continue the story. The user will now be asked for input. They can choose to continue the story or end it there. If they continue two more decyphered pieces of the story will be displayed and the user will be asked for input once more to continue the story. If yes is entered here then more of the story will unravel.
+Otherwise the user can again say no here.
+
+The whole project demonstrates inheritance(decypter), abstraction (resultable), polymorphism as well as cohesion and coupling as all classes are necesaary to run the program they all rely on each other.
